@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database Name="cuongkientruc" EntityNamespace="CuongkientrucContext" ContextNamespace="CuongkientrucContext" Class="CuongkientrucDataContext" xmlns:ed="http://devart.com/schemas/EntityDeveloper/1.0" ed:Guid="b0935c78-35b6-4e37-9862-8a49e063687a" Provider="Devart.Data.SqlServer.Linq.Provider.SqlDataProvider, Devart.Data.SqlServer.Linq" Extended="true" xmlns="http://schemas.devart.com/linqconnect/mapping">
+  <Connection Mode="ConnectionString" ConnectionString="Data Source=den1.mssql7.gear.host;Initial Catalog=cuongkientruc;Integrated Security=False;Persist Security Info=True;User ID=cuongkientruc;Password=quoccuongc114%" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Ram" Member="Rams">
+    <Type Name="Ram" ed:Guid="940cd5ab-bbe8-4443-ab4b-37374389efa9">
+      <Column Name="Code" Type="System.Int32" AutoSync="OnInsert" DbType="INT NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" UpdateCheck="Always" Precision="10" ed:ValidateRequired="true" ed:Guid="2a92d640-2494-4dbd-8cfb-fa371966f1aa" />
+      <Column Name="Name" Type="System.String" DbType="NVARCHAR(50) NOT NULL" CanBeNull="false" UpdateCheck="Never" MaxLength="50" Unicode="true" ed:ValidateMaxLength="50" ed:ValidateRequired="true" ed:Guid="95d8c682-6483-46e8-a10f-0ed4d8b9b430" />
+      <Column Name="Price" Type="System.Int32" DbType="INT" CanBeNull="true" UpdateCheck="Never" Precision="10" ed:ValidateRequired="false" ed:Guid="55a0fdb1-409a-40d2-95fd-d4e85aa0425d" />
+      <Column Name="Bus" Type="System.Int32" DbType="INT" CanBeNull="true" UpdateCheck="Never" Precision="10" ed:ValidateRequired="false" ed:Guid="c81de5db-285b-4012-91fc-2e2a75d226ec" />
+      <Column Name="Type" Type="System.String" DbType="NVARCHAR(50)" CanBeNull="true" UpdateCheck="Never" MaxLength="50" Unicode="true" ed:ValidateMaxLength="50" ed:ValidateRequired="false" ed:Guid="53ac31b1-12bc-49fc-be43-0061ce5689c0" />
+    </Type>
+  </Table>
+</Database>

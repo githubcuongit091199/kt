@@ -1,0 +1,13 @@
+D:\file Subject\Kiến trúc\ExWeek\ExWeek\obj\Debug\ExWeek.csprojAssemblyReference.cache
+D:\file Subject\Kiến trúc\ExWeek\ExWeek\obj\Debug\ExWeek.PL.RamForm.resources
+D:\file Subject\Kiến trúc\ExWeek\ExWeek\obj\Debug\ExWeek.Properties.Resources.resources
+D:\file Subject\Kiến trúc\ExWeek\ExWeek\obj\Debug\ExWeek.csproj.GenerateResource.cache
+D:\file Subject\Kiến trúc\ExWeek\ExWeek\bin\Debug\ExWeek.exe.config
+D:\file Subject\Kiến trúc\ExWeek\ExWeek\bin\Debug\ExWeek.exe
+D:\file Subject\Kiến trúc\ExWeek\ExWeek\bin\Debug\ExWeek.pdb
+D:\file Subject\Kiến trúc\ExWeek\ExWeek\bin\Debug\Devart.Data.dll
+D:\file Subject\Kiến trúc\ExWeek\ExWeek\bin\Debug\Devart.Data.Linq.dll
+D:\file Subject\Kiến trúc\ExWeek\ExWeek\bin\Debug\Devart.Data.SqlServer.Linq.dll
+D:\file Subject\Kiến trúc\ExWeek\ExWeek\obj\Debug\ExWeek.csproj.CopyComplete
+D:\file Subject\Kiến trúc\ExWeek\ExWeek\obj\Debug\ExWeek.exe
+D:\file Subject\Kiến trúc\ExWeek\ExWeek\obj\Debug\ExWeek.pdb
